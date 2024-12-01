@@ -1,0 +1,27 @@
+2024/11/13-18:20:20.866 2a20 Reusing MANIFEST D:\googlemeet\com.gm\A\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/13-18:20:20.867 2a20 Recovering log #355
+2024/11/13-18:20:20.916 2a20 Reusing old log D:\googlemeet\com.gm\A\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000355.log 
+2024/11/13-18:20:22.057 2a20 Level-0 table #367: started
+2024/11/13-18:20:22.081 2a20 Level-0 table #367: 988858 bytes OK
+2024/11/13-18:20:22.082 2a20 Delete type=0 #355
+2024/11/13-18:20:22.083 2a20 Manual compaction at level-0 from '\x009\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/13-18:20:22.147 4508 Compacting 1@1 + 8@2 files
+2024/11/13-18:20:22.210 4508 Generated table #368@1: 33938 keys, 2199016 bytes
+2024/11/13-18:20:22.242 4508 Generated table #369@1: 4565 keys, 2159841 bytes
+2024/11/13-18:20:22.271 4508 Generated table #370@1: 4473 keys, 2166749 bytes
+2024/11/13-18:20:22.301 4508 Generated table #371@1: 4977 keys, 2171832 bytes
+2024/11/13-18:20:22.358 4508 Generated table #372@1: 31767 keys, 2225168 bytes
+2024/11/13-18:20:22.422 4508 Generated table #373@1: 29596 keys, 2250741 bytes
+2024/11/13-18:20:22.491 4508 Generated table #374@1: 54920 keys, 2224960 bytes
+2024/11/13-18:20:22.540 4508 Generated table #375@1: 67991 keys, 1474456 bytes
+2024/11/13-18:20:22.541 4508 Compacted 1@1 + 8@2 files => 16872763 bytes
+2024/11/13-18:20:22.542 4508 compacted to: files[ 0 0 8 0 0 0 0 ]
+2024/11/13-18:20:22.542 4508 Delete type=2 #357
+2024/11/13-18:20:22.542 4508 Delete type=2 #358
+2024/11/13-18:20:22.542 4508 Delete type=2 #359
+2024/11/13-18:20:22.542 4508 Delete type=2 #360
+2024/11/13-18:20:22.542 4508 Delete type=2 #361
+2024/11/13-18:20:22.542 4508 Delete type=2 #362
+2024/11/13-18:20:22.543 4508 Delete type=2 #363
+2024/11/13-18:20:22.543 4508 Delete type=2 #364
+2024/11/13-18:20:22.543 4508 Delete type=2 #367
